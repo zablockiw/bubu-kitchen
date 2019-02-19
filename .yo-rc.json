@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "app.zablocki.bubukitchen",
+            "nativeLanguage": "pl"
+        },
+        "jhipsterVersion": "5.8.1",
+        "applicationType": "monolith",
+        "baseName": "BubuKitchen",
+        "packageName": "app.zablocki.bubukitchen",
+        "packageFolder": "app/zablocki/bubukitchen",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "mysql",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "MTg0ZDgzMWFmZWI2OWZlY2ZhNDQ4ZDdhNTlkYjhhN2M2MGY1MThiMGI3NmUyMDI2MmQzOTVhOWYyZWNiMmRmOTkxN2UyMWJmY2M2ZjUzMzJhODkwNDI2Mzk1ZWIyOTZiYzJlYTA3MzAwMzFlZmUyYjc2MzkyMDNhNTZmZWRkMDU=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["protractor"],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "pl",
+        "languages": ["pl", "en"]
+    }
+}
